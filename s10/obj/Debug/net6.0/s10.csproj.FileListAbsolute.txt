@@ -1,0 +1,15 @@
+C:\Users\lonel\Desktop\DzPoC2\s10\bin\Debug\net6.0\s10.exe
+C:\Users\lonel\Desktop\DzPoC2\s10\bin\Debug\net6.0\s10.deps.json
+C:\Users\lonel\Desktop\DzPoC2\s10\bin\Debug\net6.0\s10.runtimeconfig.json
+C:\Users\lonel\Desktop\DzPoC2\s10\bin\Debug\net6.0\s10.dll
+C:\Users\lonel\Desktop\DzPoC2\s10\bin\Debug\net6.0\s10.pdb
+C:\Users\lonel\Desktop\DzPoC2\s10\obj\Debug\net6.0\s10.csproj.AssemblyReference.cache
+C:\Users\lonel\Desktop\DzPoC2\s10\obj\Debug\net6.0\s10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonel\Desktop\DzPoC2\s10\obj\Debug\net6.0\s10.AssemblyInfoInputs.cache
+C:\Users\lonel\Desktop\DzPoC2\s10\obj\Debug\net6.0\s10.AssemblyInfo.cs
+C:\Users\lonel\Desktop\DzPoC2\s10\obj\Debug\net6.0\s10.csproj.CoreCompileInputs.cache
+C:\Users\lonel\Desktop\DzPoC2\s10\obj\Debug\net6.0\s10.dll
+C:\Users\lonel\Desktop\DzPoC2\s10\obj\Debug\net6.0\refint\s10.dll
+C:\Users\lonel\Desktop\DzPoC2\s10\obj\Debug\net6.0\s10.pdb
+C:\Users\lonel\Desktop\DzPoC2\s10\obj\Debug\net6.0\s10.genruntimeconfig.cache
+C:\Users\lonel\Desktop\DzPoC2\s10\obj\Debug\net6.0\ref\s10.dll
